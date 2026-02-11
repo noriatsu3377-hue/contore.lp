@@ -290,7 +290,7 @@ a{color:inherit}
   .schedule-item{grid-column: span 6}
   .instructor{grid-template-columns: 1fr;}
   .instructor-media img{aspect-ratio: 4/5; object-position: 50% 20%}
-  .instructor-grid .instructor:nth-child(2) .instructor-media img{object-position: 50% 10%}
+  .instructor-grid .instructor:nth-child(2) .instructor-media img{aspect-ratio: 3/4; object-position: 50% 0%}
   .two-col{grid-template-columns: 1fr}
   .price-grid{grid-template-columns: 1fr}
 }
